@@ -10,6 +10,8 @@
 **Dungeon Brawler** er et spennende spill hvor målet er å oppnå så høy poengsum som mulig.  
 Du styrer en spiller som kan hoppe og bevege seg til høyre og venstre. Du starter med **5 liv**.
 
+***For å starte spillet, kjør main.py***
+
 ### Viktige mekanikker:
 
 - En fiende spawner med varierende hastighet, enten til høyre eller venstre.  
